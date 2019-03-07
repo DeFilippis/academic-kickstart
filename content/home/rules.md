@@ -5,10 +5,10 @@
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 16  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Epistemic Quiz Contest"
+title = "Contest Rules"
 subtitle = ""
 
 [design]
@@ -43,8 +43,40 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Epistemic Quiz** Contest!
+We are accepting submissions on four types of trivia question.
 
-What was the last name of the family on the television show "Duck Dynasty?"  What was the name of the female protagonist in the Netflix Series "Stranger Things?"  According to our pre-tests, Republican respondents are far more likely to answer the first question correctly, whereas Democratic respondents are far more likely to answer the second correctly.
+1. **Democrat "Knowledge Deserts"** - These are **non-political** questions that a respondent who identifies as a Republican is much more likely to get right than a respondent who identifies as a Democrat.  Furthermore, the Republican should, on average, be much more confident in their answer than a Democrat.  Questions should be as apolitical as possible, asking questions that tap into different knowledge pools, lifestyles, and consumption habits.
 
-Our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into the different pools of knowledge that Republicans and Democrats may have access to. This is a competition, so winners will receive cash prizes.  
+Pilot testing has shown the following two questions are particularly good examples:
+
+**What is the last name of the Duck Dynasty family?**
+(a)	Davis
+**(b) Robertson	**
+(c) Wilson
+(d) Johnson
+
+The restaurant "Cracker Barrel" is known for having what game at each table? 
+**(a) The Peg Game**
+(b) Trivial Pursuit
+(c) Connect 4
+(d) Mancala
+
+2. **Republican "Knowledge Deserts"** - These are **non-political** questions that a respondent who identifies as a **Democrat** is much more likely to get right than a respondent who identifies as a **Republican**.  The Democrat should, on average, also be much more confident in their answer than a Republican. Questions should be as apolitical as possible, asking questions that tap into different knowledge pools, lifestyles, and consumption habits. Pilot testing has shown the following questions are particularly good examples:
+
+
+**What is Matcha?**
+**(a) Tea**
+(b) A comic series
+(c) A TV show
+(d) Coffee
+
+**Which of the following is a song by Drake?**
+**(a) Hotline Bling**
+(b) HUMBLE
+(c) Gold Digger
+(d) Drop the World
+
+
+3. **Republican "False Beliefs"** - These are explicitly political questions that a respondent who identifies as a **Democrat** is much more likely to get right than a respondent who identifies as a **Republican**.  Crucially, both Republican and Democrat respondents should be confident in their answer, but there is one true response.  Because these questions are politically contentious, they should be selected and phrased in a way to be as uncontroversial as possible (citing specific statistics, for example)
+
+The Democrat should, on average, also be more confident in their answer than a Republican. Questions should be as apolitical as possible, asking questions that tap into different knowledge pools, lifestyles, and consumption habits. Pilot testing has shown the following questions are particularly good examples:
