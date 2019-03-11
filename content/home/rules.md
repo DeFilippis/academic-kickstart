@@ -54,26 +54,28 @@ Pilot testing has shown the following two questions are particularly good exampl
   - Johnson
 
 **The restaurant "Cracker Barrel" is known for having what game at each table?**
-  - **The Peg Game**
-  - Trivial Pursuit
-  - Connect 4
-  - Mancala
+   - **The Peg Game**
+   - Trivial Pursuit
+   - Connect 4
+   - Mancala
 
 ## Republican "Knowledge Deserts"
 
 These are **non-political** questions that a respondent who identifies as a **Democrat** is much more likely to get right than a respondent who identifies as a **Republican**.  The Democrat should, on average, also be much more confident in their answer than a Republican. Questions should be as apolitical as possible, asking questions that tap into different knowledge pools, lifestyles, and consumption habits. Pilot testing has shown the following questions are particularly good examples:
 
 **What is Matcha?**
-  - **Tea**
-  - A comic series
-  - A TV show
-  - Coffee
+
+ * **Tea**
+ * A comic series
+ * A TV show
+ * Coffee
 
 **Which of the following is a song by Drake?**
-  - **Hotline Bling**
-  - HUMBLE
-  - Gold Digger
-  - Drop the World
+
+* **Hotline Bling**
+* HUMBLE
+* Gold Digger
+* Drop the World
 
 ## Republican "False Beliefs"
 
@@ -92,9 +94,10 @@ These are explicitly political questions that a respondent who identifies as a *
 Here are two examples where the average Republican is likely to guess closer to the correct answer than the average Democrat:
 
 **What is the safest form of energy, as determined by "mortality rate per kilowatt hour?"**
-  - **Nuclear power**
-  - Solar power
-  - Wind power
-  - Hydro power
+
+- **Nuclear power**
+- Solar power
+- Wind power
+- Hydro power
 
 **What percentage of gun deaths in 2016 were caused by assault-style rifles?**	(2%)
