@@ -48,16 +48,16 @@ These are **non-political** questions that a respondent who identifies as a Repu
 Pilot testing has shown the following two questions are particularly good examples:
 
 **What is the last name of the Duck Dynasty family?**
-  -	Davis
-  - **Robertson**
-  - Wilson
-  - Johnson
+  *	Davis
+  * **Robertson**
+  * Wilson
+  * Johnson
 
 **The restaurant "Cracker Barrel" is known for having what game at each table?**
-   - **The Peg Game**
-   - Trivial Pursuit
-   - Connect 4
-   - Mancala
+  * **The Peg Game**
+  * Trivial Pursuit
+  * Connect 4
+  * Mancala
 
 ## Republican "Knowledge Deserts"
 
