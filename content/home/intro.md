@@ -49,4 +49,4 @@ What was the last name of the family on the television show "Duck Dynasty?"  Wha
 
 Our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into the different pools of knowledge that Republicans and Democrats may have access to. This is a competition, so winners will receive cash prizes.  
 
-{{< figure library="1" src="stranger_things.jpg" title="Duck Dynasty v. Stranger Things" >}}
+{{< figure library="1" src="stranger_things.png" title="Duck Dynasty v. Stranger Things" >}}
