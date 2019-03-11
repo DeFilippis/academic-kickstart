@@ -42,11 +42,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+{{< figure library="1" src="stranger_things.png" >}}
 
-Welcome to the **Epistemic Quiz** Contest!
+What was the last name of the family on the television show "Duck Dynasty?"  What was the name of the female protagonist in the Netflix Series "Stranger Things?"  According to our pre-tests, Republican respondents are far more likely to answer the first question correctly, whereas Democratic respondents are far more likely to answer the second correctly.  We are interested in developing a database of similar questions that tap into these differences between Republicans and Democrats.  
 
-What was the last name of the family on the television show "Duck Dynasty?"  What was the name of the female protagonist in the Netflix Series "Stranger Things?"  According to our pre-tests, Republican respondents are far more likely to answer the first question correctly, whereas Democratic respondents are far more likely to answer the second correctly.
-
-Our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into the different pools of knowledge that Republicans and Democrats may have access to. This is a competition, so winners will receive cash prizes.  
-
-{{< figure library="1" src="stranger_things.png" title="Duck Dynasty v. Stranger Things" >}}
+Specifically, our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into different pools of knowledge that Republicans and Democrats may have access to. Participants may submit as many questions as they like into one of four different question categories, as described in the [Rules][/#rules] section.  The best questions in each category will receive $100.00. 
