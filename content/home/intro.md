@@ -48,3 +48,5 @@ Welcome to the **Epistemic Quiz** Contest!
 What was the last name of the family on the television show "Duck Dynasty?"  What was the name of the female protagonist in the Netflix Series "Stranger Things?"  According to our pre-tests, Republican respondents are far more likely to answer the first question correctly, whereas Democratic respondents are far more likely to answer the second correctly.
 
 Our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into the different pools of knowledge that Republicans and Democrats may have access to. This is a competition, so winners will receive cash prizes.  
+
+{{< figure library="1" src="stranger_things.jpg" title="Duck Dynasty v. Stranger Things" >}}

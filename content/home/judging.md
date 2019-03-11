@@ -50,9 +50,10 @@ To determine winners for each category of question, we will do the following:
 
 For Republican "False Belief" questions, we perform the following:
 
-$$\mid{\text{Average Democrat Answer} - \text{Correct Answer}} - \mid{\text{Average Republican Answer} - \text{Correct Answer}}$$
+$$\mid{\text{Average Democrat Answer}} - \text{Correct Answer}} - \mid{\text{Average Republican Answer} - \text{Correct Answer}}$$
 
+For Democrat "False Belief" questions, we perform the following:
 
+$$\mid{\text{Average Republican Answer}} - \text{Correct Answer}} - \mid{\text{Average Democrat Answer} - \text{Correct Answer}}$$
 
-
--
+And we award the questions that maximize the above quantity.  
