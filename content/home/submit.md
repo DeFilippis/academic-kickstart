@@ -43,10 +43,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Prizes will be awarded as follows:
 
-* Two $100 prizes will be awarded to the top two questions in the "Democrat False Belief" category
-* Two $100 prizes will be awarded to the top two questions in the "Republican False Belief" category
-* Two $100 prizes will be awarded to the top two questions in the "Democrat Knowledge Desert" category
-* Two $100 prizes will be awarded to the top question in the "Republican Knowledge Desert" category
-* The contest participant who submits the best questions will receive acknowledgement in the eventual academic paper that is released
+To submit to this contest please click [here](https://www.guidedtrack.com/programs/lie1ubg/run) and fill out the survey.  You are free to submit as many trivia questions as you like, although we may discard answers from participants who submit multiple low-effort questions to game the system.  
+
+The survey below will ask you to pre-specify how many questions are qualitative and how many are quantitative.  It will give you the opportunity to fill out multiple choice options for each qualitative question -- these options must be filled out for your question to be valid.  The choice of "strategic" multiple choice options may make or break a question.
+
+If you have already submitted this survey and have thought of more questions you would like to add, feel free to submit another survey, but you will need to re-complete the baseline survey questions so we can match your previous survey.  
