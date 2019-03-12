@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Rules"
-  url = "#rules"
+  name = "Overview"
+  url = "#overview"
   weight = 20
 
 [[main]]
@@ -23,10 +23,19 @@
   url = "#prizes"
   weight = 40
 
-  [[main]]
+[[main]]
+    name = "Submit"
+    url = "#submit"
+    weight = 50
+
+[[main]]
+    name = "About"
+    url = "#About"
+    weight = 60
+[[main]]
     name = "Contact"
     url = "#contact"
-    weight = 50
+    weight = 70
 
 
 
