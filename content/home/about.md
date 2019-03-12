@@ -1,14 +1,11 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Prizes"
+title = "About"
 subtitle = ""
 
 [design]
@@ -43,10 +40,16 @@ subtitle = ""
  css_class = ""
 +++
 
-Prizes will be awarded as follows:
+## Who are we?
 
-* Two $100 prizes will be awarded to the top two questions in the "Democrat False Belief" category
-* Two $100 prizes will be awarded to the top two questions in the "Republican False Belief" category
-* Two $100 prizes will be awarded to the top two questions in the "Democrat Knowledge Desert" category
-* Two $100 prizes will be awarded to the top question in the "Republican Knowledge Desert" category
-* The contest participant who submits the best questions will receive acknowledgement in the eventual academic paper that is released
+This project is being run by Evan DeFilippis - a PhD student in Psychology and Organizational Behavior - and Joshua Greene, an associate professor of Psychology at Harvard.
+
+## Why are we doing this?
+
+We are trying to develop a corpus of questions that tap into the different pools of knowledge that a Republican or a Democrat may have by dint of their political orientation (and whatever the correlates of that may be). A high-quality free set of questions is invaluable to our research on the psychological underpinnings of belief and attitude change, and may be helpful to other researchers as well.
+
+## Why crowdsource?
+
+"Knowledge desert" and "False belief" questions are notoriously hard to design.  If you are a Democrat or a Republican, it's rare to have introspective access into which of your beliefs are most likely to be wrong. Furthermore, even if you have a guess as to the kind of cultural differences that exist between the average Republican and Democrat, which may give rise to the right trivia question topics, it's nearly impossible to know whether a specific question on that topic will actually yield large differences between Republicans and Democrats.
+
+As such, we expect that the most talented and creative designers of these questions are not part of our research group. We hope that it is one of you.  And we hope to learn what individual-level characteristics make somebody particularly good at making these questions.

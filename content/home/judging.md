@@ -47,9 +47,12 @@ subtitle = ""
 - The deadline for submitting questions is <<insert date>>
 
 ## Judging Criteria
+
 To determine winners for each category of question, we will do the following:
 
 * We will take all of the questions submitted as contest entries and ask them to real Republican and Democrat respondents sampled via Amazon's Mechanical Turk survey pool.  This will be a large sample to ensure adequate statistical power to detect effects. We will only examine the results from respondents who identify explicitly as either Republican or Democrat (we exclude moderates, independents, and third parties).  
+
+* In addition to asking respondents the trivia question, we will also ask them how "confident" they feel in their answer.  To qualify as a "false belief", a participant must register a large degree of confidence, while getting the answer wrong.  To qualify as a "knowledge desert" a participant should register a low degree of confidence, while getting the answer wrong.  The actual cut-off for what constitutes a "large degree of cutoff" will be decided based on average levels of confidence for each question.
 
 * Quantitative questions should be submitted without answer choices. We expect that the majority of quantitative questions will involve the "False Belief" category, although you are free to submit quantitative questions to the "Knowledge Desert" category. We will determine the best quantitative question (e.g. what percent of climate change scientists believe in global warming?) by computing the absolute value of the difference between the average Democrat's answer and the average Republican's answer for a given question (and vice versa depending on the category). The top two questions that maximize the appropriate difference for quantitative questions will receive a reward.  
 

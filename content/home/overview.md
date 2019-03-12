@@ -4,7 +4,7 @@ widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "Contest Rules"
+title = "Contest Overview"
 subtitle = ""
 
 [design]
