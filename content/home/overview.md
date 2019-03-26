@@ -79,17 +79,21 @@ These are **non-political** questions that a respondent who identifies as a **De
 * Gold Digger
 * Drop the World
 
-## Republican "False Beliefs"
+## Republican "Belief Biases"
 
-These are explicitly political questions that a respondent who identifies as a **Democrat** is much more likely to get right than a respondent who identifies as a **Republican**.  Crucially, both Republican and Democrat respondents should be confident that their answer is correct, but there should be only one true, plainly defensible response.  Because these questions are politically contentious, they should be selected and phrased in a way to be as uncontroversial as possible (citing specific statistics, for example)
+These are politically relevant questions that a respondent who identifies as a **Democrat** is much more likely to get right than a respondent who identifies as a **Republican**.  Crucially, both Republican and Democrat respondents should have a strong hunch that their answer is right, while only one (straightforwardly verifiable) response will be. Because these questions are politically contentious, they should be selected and phrased in a way that the correct answer can be verified (citing specific statistics, for example).
 
 Here are two examples where the average Democrat is likely to guess closer to the correct answer than the average Republican:
 
 - **What percentage of climate change scientists believe that climate change is primarily caused by human activity?** (97%)
 
+[Source](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002)
+
 - **Resumes with white-sounding names were how much more likely to get call-backs than the same resume with a black-sounding name?** (50%)
 
-## Democrat "False Beliefs"
+[Source](https://www.nber.org/papers/w9873.pdf)
+
+## Democrat "Belief Biases"
 
 These are explicitly political questions that a respondent who identifies as a **Republican** is much more likely to get right than a respondent who identifies as a **Democrat**.  Crucially, both Republican and Democrat respondents should be confident that their answer is correct, but there should be only one true, plainly defensible response.  Because these questions are politically contentious, they should be selected and phrased in a way to be as uncontroversial as possible (citing specific statistics, for example)
 
@@ -102,4 +106,16 @@ Here are two examples where the average Republican is likely to guess closer to 
 - Wind power
 - Hydro power
 
+
+[Source 1](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673607612537.pdf)
+
+[Source 2](https://books.google.com/books?hl=en&lr=&id=9TdkAgAAQBAJ&oi=fnd&pg=PP1&dq=Hidden+Costs+of+Energy:+Unpriced+Consequences+of+Energy+Production+and+Use+Committee+on+Health,+Environmental,+and+Other+External+Costs+and+Benefits+of+Energy+Production+and+Consumption%3B+&ots=NO4gepgA6Y&sig=hc9oIfzig2ntekO7wcnjULUzQ4Y#v=onepage&q=Hidden%20Costs%20of%20Energy%3A%20Unpriced%20Consequences%20of%20Energy%20Production%20and%20Use%20Committee%20on%20Health%2C%20Environmental%2C%20and%20Other%20External%20Costs%20and%20Benefits%20of%20Energy%20Production%20and%20Consumption%3B&f=false)
+
 **What percentage of gun deaths in 2016 were caused by assault-style rifles?**	(2%)
+
+[Source](https://www.gunviolencearchive.org)
+
+
+To be clear: we are not looking for questions for which partisans already have conflicting explicit beliefs.  For example, a bad question would be "where was Barack Obama born?"  While this question is likely to generate large differences in the pattern of answers between Republicans and Democrats, and both sides will have strong hunches that their answer is correct, we are interested only in questions where Republicans and Democrats don't already have a precise, pre-existing belief about the answer to a question.  It should be possible for both sides to accept the right answer when it is revealed.  This requires questions for which partisans have intuitive hunches guided by their politics, but not explicit, categorical beliefs.
+
+Answers to all questions must be backed by credible sources. Sources need to be "credible" (e.g. a scholarly journal article or institutional research report rather than a blog post). We reserve the right to determine which sources count as credible.

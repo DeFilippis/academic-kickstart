@@ -40,21 +40,23 @@ subtitle = ""
 
 ## Submission Criteria
 
-- Participants may submit as many questions as they like, although participants who submit a number of "low-quality" questions will be withdrawn from the competition.
+- Participants may submit as many questions as they like, but note that not all questions will pass our initial review. (See below for details). Submitting a large number of low-quality questions will not increase your odds of winning a prize.
 
-- Prizes will be awarded to the top two submissions for each of the following categories: Democrat "Knowledge Deserts", Republican "Knowledge Deserts", Democrat "False Beliefs" and Republican "False Beliefs" (see prizes tab for award amounts)
+- Prizes will be awarded to the top two submissions for each of the following categories: Democrat "Knowledge Deserts", Republican "Knowledge Deserts", Democrat "Belief Biases" and Republican "Belief Biases" (see prizes tab for award amounts)
 
-- The deadline for submitting questions is <<insert date>>
+- The deadline for submitting questions is May 5th, 2019 at 11:59 p.m.
 
 ## Judging Criteria
 
 To determine winners for each category of question, we will do the following:
 
-* We will take all of the questions submitted as contest entries and ask them to real Republican and Democrat respondents sampled via Amazon's Mechanical Turk survey pool.  This will be a large sample to ensure adequate statistical power to detect effects. We will only examine the results from respondents who identify explicitly as either Republican or Democrat (we exclude moderates, independents, and third parties).  
+* All questions will be subject to an initial review designed to screen out low-quality questions. (Given that we do not know how many questions we will receive, we cannot commit in advance to testing all submitted questions. It is our intention, however, to test all questions that could plausibly meet our criteria.
 
-* In addition to asking respondents the trivia question, we will also ask them how "confident" they feel in their answer.  To qualify as a "false belief", a participant must register a large degree of confidence, while getting the answer wrong (and a) corresponding participant from the other political party should be confident and correct).  To qualify as a "knowledge desert" a participant should register a low degree of confidence, while getting the answer wrong (and a corresponding participant from the other political party should be confident and correct).  The actual cut-off for what constitutes a "large degree of cutoff" will be decided based on average levels of confidence for each question.
+* We will take all of the questions that pass our initial review as contest entries and pose them to a large sample of real Republican and Democrat respondents.
 
-* Quantitative questions should be submitted without answer choices. We expect that the majority of quantitative questions will involve the "False Belief" category, although you are free to submit quantitative questions to the "Knowledge Desert" category. We will determine the best quantitative question (e.g. what percent of climate change scientists believe in global warming?) by computing the absolute value of the difference between the average Democrat's answer and the average Republican's answer for a given question (and vice versa depending on the category). The top two questions that maximize the appropriate difference for quantitative questions will receive a reward.  
+* To qualify as a "belief bias", participants from a specific political party (e.g. Republicans) should, on average, get the answer wrong more often than a participant from the other political party (e.g. Democrat).  Furthermore, both participants should have a hunch that their answer is right.  To qualify as a "knowledge desert" a participant should register a low degree of confidence, while getting the answer wrong (and a corresponding participant from the other political party should be register high confidence and be correct).  The actual cut-off for what constitutes a "large degree of confidence" will be up to our discretion.  
+
+* Quantitative questions should be submitted without answer choices. We expect that the majority of quantitative questions will involve the "False Belief" category, although you are free to submit quantitative questions to the "Knowledge Desert" category. We will determine the best quantitative question (e.g. what percent of climate change scientists believe in global warming?) by computing the absolute value of the difference between the average Democrat's answer and the average Republican's answer for a given question (and vice versa depending on the category). The top questions that maximize the appropriate difference for quantitative questions will receive a reward.  
 
 For questions that are supposed to favor Republicans, we compute the following:
 
@@ -66,7 +68,7 @@ $$\mid \text{Average Rep. Answer - Correct Answer} \mid  - \mid\text{Average Dem
 
 Such that the larger this value, the greater the answer favors Democrats. We award the questions that maximize the above quantities.   
 
-* Qualitative questions should be submitted *with* four multiple-choice answers. We expect that the majority of quantitative questions will involve the "Knowledge Desert" category, although you are free to submit qualitative questions to the "False Belief" category. See the "rules tab" for examples.  To determine the best questions we will take the difference between the rate of Democrats/Republicans who got the answer right and the rate of Republicans/Democrats who got the answer right.
+* Qualitative questions should be submitted *with* four multiple-choice answers. We expect that the majority of qualitative questions will involve the "Knowledge Desert" category, although you are free to submit qualitative questions to the "False Belief" category. See the "rules tab" for examples.  To determine the best questions we will take the difference between the rate of Democrats/Republicans who got the answer right and the rate of Republicans/Democrats who got the answer right.
 
 For Republican "Knowledge Desert" questions (questions Republicans are likely to get wrong), we compute the following:
 

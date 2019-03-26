@@ -45,8 +45,7 @@ subtitle = ""
 
 Prizes will be awarded as follows:
 
-* Two $100 prizes will be awarded to the top two questions in the "Democrat False Belief" category
-* Two $100 prizes will be awarded to the top two questions in the "Republican False Belief" category
-* Two $100 prizes will be awarded to the top two questions in the "Democrat Knowledge Desert" category
-* Two $100 prizes will be awarded to the top question in the "Republican Knowledge Desert" category
-* The contest participant who submits the best questions will receive acknowledgement in the eventual academic paper that is released
+* Two $100 prizes will be awarded for the top two questions in the "Democrat False Belief" category
+* Two $100 prizes will be awarded for the top two questions in the "Republican False Belief" category
+* Two $100 prizes will be awarded for the top two questions in the "Democrat Knowledge Desert" category
+* Two $100 prizes will be awarded for the top questions in the "Republican Knowledge Desert" category

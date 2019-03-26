@@ -42,14 +42,12 @@ subtitle = ""
 
 ## Who are we?
 
-This project is being run by Evan DeFilippis - a PhD student in Psychology and Organizational Behavior - and Joshua Greene, an associate professor of Psychology at Harvard.
+This project is being run by Evan DeFilippis (PhD student in Psychology and Organizational Behavior) and Joshua Greene (Professor of Psychology) at Harvard University.
 
 ## Why are we doing this?
 
-We are trying to develop a corpus of questions that tap into the different pools of knowledge that a Republican or a Democrat may have by dint of their political orientation (and whatever the correlates of that may be). A high-quality free set of questions is invaluable to our research on the psychological underpinnings of belief and attitude change, and will certainly be helpful to other researchers as well.
+We are developing a corpus of questions that tap into differences in cultural knowledge and political belief between Republicans and Democrats. We will use these questions as testing materials in our research examining the causes of social/political beliefs and attitudes. These testing materials may eventually be made available to other researchers.  
 
 ## Why crowdsource?
 
-"Knowledge desert" and "False belief" questions are notoriously hard to design.  If you are a Democrat or a Republican, it's rare to have introspective access into which of your beliefs are most likely to be wrong. Furthermore, even if you have a guess as to the kind of cultural differences that exist between the average Republican and Democrat which may give rise to the right trivia question topics, it's nearly impossible to know whether a specific question on that topic will actually yield large differences between Republicans and Democrats.
-
-As such, we expect that the most talented and creative designers of these questions are not part of our research group. We believe that the best designers may actually be one of you.  
+“Knowledge desert” and “Biased Belief” questions are hard to design because it is difficult to know what one does not know. Furthermore, even if one can identify topics about which Republicans or Democrats are likely to be especially ignorant or ill-informed, it is difficult to identify specific questions that target such differences. As such, we expect that the most talented and creative designers of these questions are not part of our research group. We hope that the best designers may actually be one of you.
