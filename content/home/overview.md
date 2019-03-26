@@ -95,7 +95,7 @@ Here are two examples where the average Democrat is likely to guess closer to th
 
 ## Democrat "Belief Biases"
 
-These are explicitly political questions that a respondent who identifies as a **Republican** is much more likely to get right than a respondent who identifies as a **Democrat**.  Crucially, both Republican and Democrat respondents should be confident that their answer is correct, but there should be only one true, plainly defensible response.  Because these questions are politically contentious, they should be selected and phrased in a way to be as uncontroversial as possible (citing specific statistics, for example)
+These are politically relevant questions that a respondent who identifies as a **Republican** is much more likely to get right than a respondent who identifies as a **Democrat**.  Crucially, both Republican and Democrat respondents should have a strong hunch that their answer is right, while only one (straightforwardly verifiable) response will be. Because these questions are politically contentious, they should be selected and phrased in a way that the correct answer can be verified (citing specific statistics, for example).
 
 Here are two examples where the average Republican is likely to guess closer to the correct answer than the average Democrat:
 
