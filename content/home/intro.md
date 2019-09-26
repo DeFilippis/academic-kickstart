@@ -42,7 +42,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< figure library="1" src="stranger_things.png" >}}
+{{< figure library="1" src="AssaultWeaponResume.png" >}}
 
 What percentage of gun deaths in 2016 were caused by assault-style rifles?  Resumes with white-sounding names were how much more likely to get call-backs than the same resume with a black-sounding name?  Pilot testing has shown that Republicans are far more likely to give the correct answer to the first question (2%), whereas Democrats are far more likely to correctly answer the second question (50%). We are interested in developing a database of similar questions that tap into these differences between Republicans and Democrats.  
 
