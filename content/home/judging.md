@@ -42,9 +42,9 @@ subtitle = ""
 
 - Participants may submit as many questions as they like, but note that not all questions will pass our initial review. (See below for details). Submitting a large number of low-quality questions will not increase your odds of winning a prize.
 
-- Prizes will be awarded to the top two submissions for each of the following categories: Democrat "Knowledge Deserts", Republican "Knowledge Deserts", Democrat "Belief Biases" and Republican "Belief Biases" (see prizes tab for award amounts)
+- Prizes will be awarded to the top two submissions for each of the following categories: Democrat "False Beliefs" and Republican "False Beliefs" (see prizes tab for award amounts)
 
-- The deadline for submitting questions is May 5th, 2019 at 11:59 p.m.
+- The deadline for submitting questions is October 15th, 2019 at 11:59 p.m.
 
 ## Judging Criteria
 
