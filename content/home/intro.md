@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Epistemic Quiz Contest"
+title = "False Belief Crowdsourcing Contest"
 subtitle = ""
 
 [design]
@@ -44,6 +44,6 @@ subtitle = ""
 +++
 {{< figure library="1" src="stranger_things.png" >}}
 
-What was the last name of the family on the television show "Duck Dynasty?"  What was the name of the female protagonist in the Netflix Series "Stranger Things?"  According to our pre-tests, Republican respondents are far more likely to answer the first question correctly, whereas Democratic respondents are far more likely to answer the second correctly.  We are interested in developing a database of similar questions that tap into these differences between Republicans and Democrats.  
+What percentage of gun deaths in 2016 were caused by assault-style rifles?  Resumes with white-sounding names were how much more likely to get call-backs than the same resume with a black-sounding name?  Pilot testing has shown that Republicans are far more likely to give the correct answer to the first question (2%), whereas Democrats are far more likely to correctly answer the second question (50%). We are interested in developing a database of similar questions that tap into these differences between Republicans and Democrats.  
 
-Specifically, our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into different pools of knowledge that Republicans and Democrats may have access to. Participants may submit as many questions as they like into one of four different question categories, as described in the [Overview]({{< relref "/#overview" >}}) section.  The best questions in each category will receive $100.00.
+Specifically, our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into different pools of knowledge that Republicans and Democrats may have access to. Participants may submit as many questions as they like into one of two different question categories, as described in the [Overview]({{< relref "/#overview" >}}) section.  The best questions in each category will receive $100.00.

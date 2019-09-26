@@ -50,4 +50,4 @@ We are developing a corpus of questions that tap into differences in cultural kn
 
 ## Why crowdsource?
 
-“Knowledge desert” and “Biased Belief” questions are hard to design because it is difficult to know what one does not know. Furthermore, even if one can identify topics about which Republicans or Democrats are likely to be especially ignorant or ill-informed, it is difficult to identify specific questions that target such differences. As such, we expect that the most talented and creative designers of these questions are not part of our research group. We hope that the best designers may actually be one of you.
+“False Belief” questions are hard to design because it is difficult to know what one does not know. Furthermore, even if one can identify topics about which Republicans or Democrats are likely to be especially ignorant or ill-informed, it is difficult to identify specific questions that target such differences. As such, we expect that the most talented and creative designers of these questions are not part of our research group. 
