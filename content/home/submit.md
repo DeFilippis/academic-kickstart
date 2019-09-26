@@ -44,8 +44,8 @@ subtitle = ""
 +++
 
 
-To submit to this contest please click [here](https://www.guidedtrack.com/programs/lie1ubg/run) and fill out the survey.  You are free to submit as many trivia questions as you like, although we may discard answers from participants who submit multiple low-effort questions to game the system.  
+To submit to this contest please click [here](https://www.guidedtrack.com/programs/1hjukl2/run) and fill out the survey. You are free to submit as many trivia questions as you like, although we may discard answers from participants who submit multiple low-effort questions to game the contest.  
 
-The survey below will ask you to pre-specify how many questions are qualitative and how many are quantitative.  It will give you the opportunity to fill out multiple choice options for each qualitative question -- these options must be filled out for your question to be valid.  The choice of "strategic" multiple choice options may make or break a question.
+The survey above will ask you to pre-specify how many questions you are submitting.  For each question, you will be required to submit four multiple choice answers. Please take into consideration that the selection of multiple choice options is extremely important, as different option sets can lead to different Republican and Democrat accuracy rates.  As such, please pay close consideration to the multiple choice options.  
 
-If you have already submitted this survey and have thought of more questions you would like to add, feel free to submit another survey, but you will need to re-complete the baseline survey questions so we can match your previous survey.  
+If you have already submitted this survey and have thought of more questions you would like to add, feel free to submit another survey, but you will need to re-complete the end-line demographic questions so we can match it to your previous survey.
