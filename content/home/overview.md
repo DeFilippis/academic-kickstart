@@ -89,8 +89,7 @@ Here are some examples where the average Republican is likely to guess closer to
 - Hydro power
 
 
-[Source 1](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673607612537.pdf)
-[Source 2](https://books.google.com/books?hl=en&lr=&id=9TdkAgAAQBAJ&oi=fnd&pg=PP1&dq=Hidden+Costs+of+Energy:+Unpriced+Consequences+of+Energy+Production+and+Use+Committee+on+Health,+Environmental,+and+Other+External+Costs+and+Benefits+of+Energy+Production+and+Consumption%3B+&ots=NO4gepgA6Y&sig=hc9oIfzig2ntekO7wcnjULUzQ4Y#v=onepage&q=Hidden%20Costs%20of%20Energy%3A%20Unpriced%20Consequences%20of%20Energy%20Production%20and%20Use%20Committee%20on%20Health%2C%20Environmental%2C%20and%20Other%20External%20Costs%20and%20Benefits%20of%20Energy%20Production%20and%20Consumption%3B&f=false)
+[Source 1](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673607612537.pdf), [Source 2](https://books.google.com/books?hl=en&lr=&id=9TdkAgAAQBAJ&oi=fnd&pg=PP1&dq=Hidden+Costs+of+Energy:+Unpriced+Consequences+of+Energy+Production+and+Use+Committee+on+Health,+Environmental,+and+Other+External+Costs+and+Benefits+of+Energy+Production+and+Consumption%3B+&ots=NO4gepgA6Y&sig=hc9oIfzig2ntekO7wcnjULUzQ4Y#v=onepage&q=Hidden%20Costs%20of%20Energy%3A%20Unpriced%20Consequences%20of%20Energy%20Production%20and%20Use%20Committee%20on%20Health%2C%20Environmental%2C%20and%20Other%20External%20Costs%20and%20Benefits%20of%20Energy%20Production%20and%20Consumption%3B&f=false)
 
 **What percentage of gun deaths in 2016 were caused by assault-style rifles?**
 
