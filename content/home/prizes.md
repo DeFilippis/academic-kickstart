@@ -45,6 +45,6 @@ subtitle = ""
 
 Prizes will be awarded as follows:
 
-* Two $100 prizes will be awarded for the top two questions in the "Democrat False Belief" category
-* Two $100 prizes will be awarded for the top two questions in the "Republican False Belief" category
-* $100 prizes will be awarded to any question that we determine to be of "high-quality" (see Judging page for details)
+* Two $100 prizes will be awarded for the top two questions in the “Democrat False Beliefs” category
+* Two $100 prizes will be awarded for the top two questions in the “Republican False Beliefs” category
+* $100 prizes will be awarded to any question that we determine to be of “high-quality” (see Judging page for details)

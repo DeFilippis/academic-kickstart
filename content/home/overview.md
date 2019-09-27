@@ -39,12 +39,11 @@ subtitle = ""
  css_class = ""
 +++
 
-We are accepting submissions on four types of trivia question.
-
+We are accepting submissions on two types of trivia question.
 
 ## Republican "False Beliefs"
 
-These are politically relevant questions that a respondent who identifies as a **Democrat** is much more likely to get right than a respondent who identifies as a **Republican**.  Crucially, both Republican and Democrat respondents should have a strong hunch that their answer is right, while only one (straightforwardly verifiable) response will be. Because these questions are politically contentious, they should be selected and phrased in a way that the correct answer can be verified (citing specific statistics, for example).
+These are politically-relevant questions that a person who identifies as a **Democrat** is much more likely to get correct than a person who identifies as a **Republican**. Crucially, both Republican and Democrat respondents should have a strong hunch that their answer is right, while only one (easily verifiable) response will be. Because these questions are politically controversial, they should be selected and phrased in a way that the correct answer can be verified (citing specific statistics, for example).
 
 Here are some pre-tested examples where the average Democrat is likely to guess closer to the correct answer than the average Republican:
 
@@ -57,7 +56,7 @@ Here are some pre-tested examples where the average Democrat is likely to guess 
 
 [Source](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002)
 
-**Resumes with white-sounding names were how much more likely to get call-backs than the same resume with a black-sounding name?**
+**Resumés submitted to job openings with White-sounding names were how much more likely to get a call back than the same resumés submitted with Black-sounding names?**
 
 - **50%**
 - 25%
@@ -77,7 +76,8 @@ Here are some pre-tested examples where the average Democrat is likely to guess 
 
 ## Democrat "False Beliefs"
 
-These are politically relevant questions that a respondent who identifies as a **Republican** is much more likely to get right than a respondent who identifies as a **Democrat**.  Crucially, both Republican and Democrat respondents should have a strong hunch that their answer is right, while only one (straightforwardly verifiable) response will be. Because these questions are politically contentious, they should be selected and phrased in a way that the correct answer can be verified (citing specific statistics, for example).
+These are politically-relevant questions that a person who identifies as a **Republican** is much more likely to get correct than a person who identifies as a **Democrat**. Crucially, both Republican and Democrat respondents should have a strong hunch that their answer is right, while only one (easily verifiable) response will be. Because these questions are politically controversial, they should be selected and phrased in a way that the correct answer can be verified (citing specific statistics, for example).
+Here are some examples where the average Republican is likely to guess closer to the correct answer than the average Democrat:
 
 Here are some examples where the average Republican is likely to guess closer to the correct answer than the average Democrat:
 
@@ -109,6 +109,6 @@ Here are some examples where the average Republican is likely to guess closer to
 
 [Source](https://ucr.fbi.gov/hate-crime/2017/tables/table-1.xls)
 
-To be clear: we are not looking for questions for which partisans already have conflicting explicit beliefs.  For example, a bad question would be "where was Barack Obama born?"  While this question is likely to generate large differences in the pattern of answers between Republicans and Democrats, and both sides will have strong hunches that their answer is correct, we are interested only in questions where Republicans and Democrats don't already have a precise, pre-existing belief about the answer to a question.  It should be possible for both sides to accept the right answer when it is revealed.  This requires questions for which partisans have intuitive hunches guided by their politics, but not explicit, categorical beliefs.
+To be clear: we are not looking for questions about which people in different political parties already have conflicting explicit beliefs. For example, a bad question would be, “Where was Barack Obama born?” While this question is likely to generate large differences in the pattern of answers between Republicans and Democrats, and both sides will have strong hunches that their answer is correct, we are interested only in questions where Republicans and Democrats don’t already have a precise, pre-existing belief about the answer to a question. It should be possible for both sides to accept the right answer when it is revealed. This requires questions for which partisans have intuitive “hunches” guided by their politics, but not explicit, specific beliefs.
 
-Answers to all questions must be backed by credible sources. Sources need to be "credible" (e.g. a scholarly journal article or institutional research report rather than a blog post). We reserve the right to determine which sources count as credible.
+Answers to all questions must be backed by credible sources. Examples of credible sources include scholarly journal articles or institutional research reports. Examples of non-credible sources include blog posts or opinion articles. We reserve the right to determine which sources count as credible.

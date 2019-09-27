@@ -44,6 +44,10 @@ subtitle = ""
 +++
 {{< figure library="1" src="AssaultWeaponResume.png" >}}
 
-What percentage of gun deaths in 2016 were caused by assault-style rifles?  Resumes with white-sounding names were how much more likely to get call-backs than the same resume with a black-sounding name?  Pilot testing has shown that Republicans are far more likely to give the correct answer to the first question (2%), whereas Democrats are far more likely to correctly answer the second question (50%). We are interested in developing a database of similar questions that tap into these differences between Republicans and Democrats.  
+1. What percentage of gun deaths in 2016 were caused by assault-style rifles?  
 
-Specifically, our project is [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) the design of a set of trivia questions designed to tap into different pools of knowledge that Republicans and Democrats may have access to. Participants may submit as many questions as they like into one of two different question categories, as described in the [Overview]({{< relref "/#overview" >}}) section.  The best questions in each category will receive $100.00.
+2. Resumes with white-sounding names were how much more likely to get call-backs than the same resume with a black-sounding name?  
+
+Pilot testing has shown that Republicans are far more likely to give the correct answer to the first question (2%), whereas Democrats are far more likely to correctly answer the second question (50%). We are interested in developing a database of similar questions that tap into these differences between Republicans and Democrats.  
+
+Specifically, our project uses [crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) to put together a set of trivia questions designed to tap into different types of knowledge that Republicans and Democrats may have access to. Participants may submit as many questions as they like into one of two different question categories, as described in the [Overview]({{< relref "/#overview" >}}) section. The best questions in each category will receive a $100.00 reward.

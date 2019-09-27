@@ -40,23 +40,23 @@ subtitle = ""
 
 ## Submission Criteria
 
-- Participants may submit as many questions as they like, but note that not all questions will pass our initial review. (See below for details). Submitting a large number of low-quality questions will not increase your odds of winning a prize.
-
-- Prizes will be awarded to the top two submissions for each of the following categories: Democrat "False Beliefs" and Republican "False Beliefs" (see prizes tab for award amounts)
-
+- Participants may submit as many questions as they like, but note that not all questions will pass our initial review. (See below for details). Submitting a large number of low-quality questions will not increase your chances of winning a prize.
+- All questions should be submitted with exactly **four answer choices.**
+-	Prizes will be awarded to the top two submissions for each of the following categories: Democrat “False Beliefs” and Republican “False Beliefs” (see prizes tab for award amounts)
 - The deadline for submitting questions is October 15th, 2019 at 11:59 p.m.
+
 
 ## Judging Criteria
 
 To determine winners for each category of question, we will do the following:
 
-* All questions will be subject to an initial review designed to screen out low-quality questions. (Given that we do not know how many questions we will receive, we cannot commit in advance to testing all submitted questions. It is our intention, however, to test all questions that could plausibly meet our criteria.
+1. All questions will be subject to an initial review designed to screen out low-quality questions. (Given that we do not know how many questions we will receive, we cannot commit in advance to testing all submitted questions. It is our intention, however, to test all questions that could plausibly meet our criteria.)
 
-* We will take all of the questions that pass our initial review as contest entries and pose them to a large sample of real Republican and Democrat respondents.
+2. We will collect all of the questions that pass our initial review and ask a large sample of real Republican and Democrat respondents to answer them.
 
-* To qualify as a "False Belief", participants from a specific political party (e.g. Republicans) should, on average, get the answer wrong more often than a participant from the other political party (e.g. Democrat).  Furthermore, both participants should have a hunch that their answer is right.  The actual cut-off for what constitutes a reasonable hunch will be up to the judges' discretion.  
+3. To qualify as a “False Belief”, participants from a specific political party (such as Republicans) should, on average, get the answer wrong more often than a participant from the other political party (such as Democrats). Additionally, both participants should have a hunch that their answer is right. Hunches will be gauged by asking participants to register the degree of confidence they have in their answers. What constitutes a reasonable “hunch” will be up to the judges’ discretion.
 
-* All questions should be submitted with exactly four answer choices.  
+4. We will award prizes to the submissions that maximize the difference between the percentage of Republicans answering correctly and the percentage of Democrats answering correctly. (For the best questions we have developed so far, we have found that on average, a Republican or a Democrat is 50% more likely to get these questions correct than their political counterpart.) We will award at least two prizes in each category, and we will reward any submission beyond the top two that we consider to be “high-quality.”
 
 For Republican "False Belief" questions (questions Republicans are likely to get wrong), we compute the following:
 
@@ -67,7 +67,3 @@ For Democratic "False Belief" questions, we compute the following:
 $$\mid \text{Rate for Reps - Rate for Dems} \mid $$
 
 We award prizes to the submissions that maximize the above quantities, giving at least two prizes in each category.  However, we will reward any question that is submitted that we consider to be "high quality."
-
-* We reserve the right to use our discretion to reward questions that are particularly unique or clever, over and above the strict quantitative criteria described above.  
-
-* To give some context as to what constitutes a "high-quality" submission, the best questions we have designed so far are able to generate an accuracy differential of 50% between Republicans and Democrats on a large sample of online participants.  That is, on average a Republican or a Democrat is 50% more likely to get these questions correct than their political counterpart.  It is likely that questions that achieve similar results will be rewarded at least $100.00 (depending on the total number of high-quality submissions).    
