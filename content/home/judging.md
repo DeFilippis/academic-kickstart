@@ -52,18 +52,18 @@ To determine winners for each category of question, we will do the following:
 
 1. All questions will be subject to an initial review designed to screen out low-quality questions. (Given that we do not know how many questions we will receive, we cannot commit in advance to testing all submitted questions. It is our intention, however, to test all questions that could plausibly meet our criteria.)
 
-2. We will collect all of the questions that pass our initial review and ask a large sample of real Republican and Democrat respondents to answer them.
+2. We will collect all of the questions that pass our initial review and ask a large sample of real Republican and Democrat respondents to answer them. If two or more participants submit what is substantively the same question, then only the participant who submitted the question first will be considered for a prize.
 
-3. To qualify as a “False Belief”, participants from a specific political party (such as Republicans) should, on average, get the answer wrong more often than a participant from the other political party (such as Democrats). Additionally, both participants should have a hunch that their answer is right. Hunches will be gauged by asking participants to register the degree of confidence they have in their answers. What constitutes a reasonable “hunch” will be up to the judges’ discretion.
+3. To qualify as a high-quality “False Belief” question, participants from one major party should, on average, get the answer wrong more often than participants from the other major party. Additionally, both participants should have a hunch that their answer is right. Hunches will be gauged by asking participants to register the degree of confidence they have in their answers. What constitutes a reasonable “hunch” will be up to the judges’ discretion.
 
-4. We will award prizes to the submissions that maximize the difference between the percentage of Republicans answering correctly and the percentage of Democrats answering correctly. (For the best questions we have developed so far, we have found that on average, a Republican or a Democrat is 50% more likely to get these questions correct than their political counterpart.) We will award at least two prizes in each category, and we will reward any submission beyond the top two that we consider to be “high-quality.”
+4. We will award prizes to the submissions that maximize the difference between the percentage of Republicans answering correctly and the percentage of Democrats answering correctly. (For the best questions we have developed so far, we have found that on average, the difference in the proportions of each party responding correctly exceeds 50%--for example, 76% of Republicans answer correctly, but only 24% of Democrats answer correctly.)  We will award at least two prizes in each category, and we will reward any submission beyond the top two that we consider to be “high-quality.”
 
 For Republican "False Belief" questions (questions Republicans are likely to get wrong), we compute the following:
 
-$$\mid \text{Rate for Dems - Rate for Reps} \mid $$
+$$\mid \text{∣% Correct for Democrats - % Correct for Republicans} \mid $$
 
 For Democratic "False Belief" questions, we compute the following:
 
-$$\mid \text{Rate for Reps - Rate for Dems} \mid $$
+$$\mid \text{% Correct for Republicans - % Correct for Democrats} \mid $$
 
-We award prizes to the submissions that maximize the above quantities, giving at least two prizes in each category.  However, we will reward any question that is submitted that we consider to be "high quality."
+Awards will be given for the questions that maximize the above quantities. We reserve the right to use our discretion to reward questions that are particularly unique or clever, over and above the strict quantitative criteria described above.

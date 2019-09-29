@@ -44,8 +44,8 @@ subtitle = ""
 +++
 
 
-To submit to this contest please click [here](https://www.guidedtrack.com/programs/1hjukl2/run) and fill out the survey. You are free to submit as many trivia questions as you like, although we may discard answers from participants who submit multiple low-effort questions to game the contest.  
+To submit to this contest please click [here](https://www.guidedtrack.com/programs/1hjukl2/run) and fill out the survey. You are free to submit as many trivia questions as you like, although we may discard submissions from participants who submit a large number of questions that in our view have little chance of being high-quality.
 
-The survey above will ask you to pre-specify how many questions you are submitting.  For each question, you will be required to submit four multiple choice answers. Please take into consideration that the selection of multiple choice options is extremely important, as different option sets can lead to different Republican and Democrat accuracy rates.  As such, please pay close consideration to the multiple choice options.  
+The survey above will ask you to pre-specify how many questions you are submitting. For each question, you will be required to submit four multiple choice answers. Please bear in mind that high-quality questions must have well-designed incorrect answers, as the incorrect answers presented has a large effect on accuracy rates.
 
-If you have already submitted this survey and have thought of more questions you would like to add, feel free to submit another survey, but you will need to re-complete the end-line demographic questions so we can match it to your previous survey.
+If you have already participated and would like to participate again, you may do so. But repeat participants will need to re-complete the demographic questions at the end so that we can match it to your previous submission.

@@ -42,12 +42,12 @@ subtitle = ""
 
 ## Who are we?
 
-This project is being run by Evan DeFilippis (PhD student in Psychology and Organizational Behavior) and Joshua Greene (Professor of Psychology) at Harvard University.
+This project is being managed by Evan DeFilippis (PhD student in Psychology and Organizational Behavior) and Joshua Greene (Professor of Psychology) at Harvard University.
 
 ## Why are we doing this?
 
-We are developing a corpus of questions that tap into differences in cultural knowledge and political belief between Republicans and Democrats. We will use these questions as testing materials in our research examining the causes of social/political beliefs and attitudes. These testing materials may eventually be made available to other researchers.  
+We are collecting questions that tap into differences in cultural knowledge and political belief between Republicans and Democrats. We will use these questions as testing materials in our research examining the causes of social/political beliefs and attitudes. These testing materials may eventually be made available to other researchers.  
 
 ## Why crowdsource?
 
-“False Belief”  questions are hard to design because it is difficult to know what one does not know. Furthermore, even if one can identify topics about which Republicans or Democrats are likely to be especially ignorant or ill-informed, it is difficult to identify specific questions that target such differences. As such, we expect that the most talented and creative designers of these questions are not part of our research group. We hope that the best questions will likely come from one of you.
+“False Belief” questions are hard to design because it is difficult to know what one does not know. Furthermore, even if one can identify topics about which Republicans or Democrats are likely to be especially ignorant or ill-informed, it is difficult to identify specific questions that expose such differences. As such, we expect that the most talented and creative designers of these questions are not part of our research group. We hope that the best questions will likely come from one of you.
