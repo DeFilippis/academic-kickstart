@@ -32,10 +32,16 @@
     name = "About"
     url = "#about"
     weight = 60
+
 [[main]]
     name = "Contact"
     url = "#contact"
     weight = 70
+
+[[main]]
+    name = "Knowledge Desert Contest"
+    url = "http://kd.redbrainbluebrain.org"
+    weight = 80
 
 
 

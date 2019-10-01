@@ -40,9 +40,14 @@ subtitle = ""
 
 ## Submission Criteria
 
+- Submissions must be in English.
+
 - Participants may submit as many questions as they like, but note that not all questions will pass our initial review. (See below for details). Submitting a large number of low-quality questions will not increase your chances of winning a prize.
+
 - All questions should be submitted with exactly **four answer choices.**
+
 -	Prizes will be awarded to the top two submissions for each of the following categories: Democrat “False Beliefs” and Republican “False Beliefs” (see prizes tab for award amounts)
+
 - The deadline for submitting questions is October 15th, 2019 at 11:59 p.m.
 
 
