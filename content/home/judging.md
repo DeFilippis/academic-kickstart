@@ -48,7 +48,7 @@ subtitle = ""
 
 -	Prizes will be awarded to the top two submissions for each of the following categories: Democrat “False Beliefs” and Republican “False Beliefs” (see prizes tab for award amounts)
 
-- The deadline for submitting questions is October 15th, 2019 at 11:59 p.m.
+- The deadline for submitting questions is October 20th, 2019 at 11:59 p.m.
 
 
 ## Judging Criteria
@@ -59,7 +59,7 @@ To determine winners for each category of question, we will do the following:
 
 2. We will collect all of the questions that pass our initial review and ask a large sample of real Republican and Democrat respondents to answer them. If two or more participants submit what is substantively the same question, then only the participant who submitted the question first will be considered for a prize.
 
-3. To qualify as a high-quality “False Belief” question, participants from one major party should, on average, get the answer wrong more often than participants from the other major party. Additionally, both participants should have a hunch that their answer is right. Hunches will be gauged by asking participants to register the degree of confidence they have in their answers. We define a reasonable hunch as having 50% or more confidence in one's answer. 
+3. To qualify as a high-quality “False Belief” question, participants from one major party should, on average, get the answer wrong more often than participants from the other major party. Additionally, both participants should have a hunch that their answer is right. Hunches will be gauged by asking participants to register the degree of confidence they have in their answers. We define a reasonable hunch as having 50% or more confidence in one's answer.
 
 4. We will award prizes to the submissions that maximize the difference between the percentage of Republicans answering correctly and the percentage of Democrats answering correctly. (For the best questions we have developed so far, we have found that on average, the difference in the proportions of each party responding correctly exceeds 50%--for example, 76% of Republicans answer correctly, but only 24% of Democrats answer correctly.)  We will award at least two prizes in each category, and we will reward any submission beyond the top two that we consider to be “high-quality.”
 
